@@ -1,4 +1,4 @@
-<img width="1891" height="892" alt="image" src="https://github.com/user-attachments/assets/3f697c29-12ce-454c-a97a-1bf1f0ae9909" /># 🗂️ Team Task Manager (PHP + MySQL)
+# 🗂️ Team Task Manager (PHP + MySQL)
 
 A simple Task Management Web Application built using **PHP, MySQL, JavaScript, and Bootstrap**.
 

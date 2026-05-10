@@ -1,4 +1,4 @@
-# 🗂️ Team Task Manager (PHP + MySQL)
+<img width="1891" height="892" alt="image" src="https://github.com/user-attachments/assets/3f697c29-12ce-454c-a97a-1bf1f0ae9909" /># 🗂️ Team Task Manager (PHP + MySQL)
 
 A simple Task Management Web Application built using **PHP, MySQL, JavaScript, and Bootstrap**.
 
@@ -105,10 +105,14 @@ CREATE TABLE tasks (
 ## 🚀 Run on the Browser                                                                                         
 http://localhost/p-team-task-manager/public/login.php
 
+<img width="1891" height="892" alt="image" src="https://github.com/user-attachments/assets/db1c1159-a93c-4eeb-84e3-a09b5ca5d554" />
+
+## Admin view Project Form,Task Assign Form and Task Table:
 <img width="1891" height="911" alt="Screenshot 2026-05-10 105739" src="https://github.com/user-attachments/assets/6ce11d1e-c0b5-48c0-b299-8cb2f24d413e" />
 
 <img width="1880" height="913" alt="Screenshot 2026-05-10 105820" src="https://github.com/user-attachments/assets/29155ab3-1f2f-405f-aaac-ae0c2107682f" />
 
+## But Member view only Task Table:
 <img width="1883" height="908" alt="Screenshot 2026-05-10 105910" src="https://github.com/user-attachments/assets/acdbc35d-e483-4eef-9fd0-ac997ab4ffef" />
 
 

@@ -39,6 +39,31 @@ A simple Task Management Web Application built using **PHP, MySQL, JavaScript, a
 - **Database:** MySQL
 - **Server:** XAMPP (Apache)
 
----
-
+---### 📁 Project Structure
+p-team-task-manager/
+│
+├── config/
+│ └── db.php
+│
+├── api/
+│ ├── auth.php
+│ ├── task.php
+│ ├── project.php
+│ └── logout.php
+│
+├── includes/
+│ ├── auth_check.php
+│ └── functions.php
+│
+├── public/
+│ ├── index.php
+│ ├── dashboard.php
+│ ├── login.php
+│ └── register.php
+│
+├── assets/
+│ ├── css/style.css
+│ └── js/script.js
+│
+└── README.md
 
